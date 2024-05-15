@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iniciante/area/area.iml" filepath="$PROJECT_DIR$/iniciante/area/area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/area-do-circulo/area-do-circulo.iml" filepath="$PROJECT_DIR$/iniciante/area-do-circulo/area-do-circulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beecrowd-exercicios-java.iml" filepath="$PROJECT_DIR$/.idea/beecrowd-exercicios-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/calculoSimples/calculoSimples.iml" filepath="$PROJECT_DIR$/iniciante/calculoSimples/calculoSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/cedulas/cedulas.iml" filepath="$PROJECT_DIR$/iniciante/cedulas/cedulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/consumo/consumo.iml" filepath="$PROJECT_DIR$/iniciante/consumo/consumo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/conversaoDeTempo/conversaoDeTempo.iml" filepath="$PROJECT_DIR$/iniciante/conversaoDeTempo/conversaoDeTempo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/diferenca/diferenca.iml" filepath="$PROJECT_DIR$/iniciante/diferenca/diferenca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/distancia/distancia.iml" filepath="$PROJECT_DIR$/iniciante/distancia/distancia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/distanciaEntreDoisPontos/distanciaEntreDoisPontos.iml" filepath="$PROJECT_DIR$/iniciante/distanciaEntreDoisPontos/distanciaEntreDoisPontos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/esfera/esfera.iml" filepath="$PROJECT_DIR$/iniciante/esfera/esfera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/extremamenteBasico/extremamenteBasico.iml" filepath="$PROJECT_DIR$/iniciante/extremamenteBasico/extremamenteBasico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/gastoDeCombustivel/gastoDeCombustivel.iml" filepath="$PROJECT_DIR$/iniciante/gastoDeCombustivel/gastoDeCombustivel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/iniciante/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/idadeEmDias/idadeEmDias.iml" filepath="$PROJECT_DIR$/iniciante/idadeEmDias/idadeEmDias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/media1/media1.iml" filepath="$PROJECT_DIR$/iniciante/media1/media1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/media2/media2.iml" filepath="$PROJECT_DIR$/iniciante/media2/media2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/oMaior/oMaior.iml" filepath="$PROJECT_DIR$/iniciante/oMaior/oMaior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/produtoSimples/produtoSimples.iml" filepath="$PROJECT_DIR$/iniciante/produtoSimples/produtoSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/salario/salario.iml" filepath="$PROJECT_DIR$/iniciante/salario/salario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/salarioComBonus/salarioComBonus.iml" filepath="$PROJECT_DIR$/iniciante/salarioComBonus/salarioComBonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/somaSimples/somaSimples.iml" filepath="$PROJECT_DIR$/iniciante/somaSimples/somaSimples.iml" />
+    </modules>
+  </component>
+</project>
